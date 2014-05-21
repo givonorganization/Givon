@@ -1,0 +1,138 @@
+#u5194
+{
+	-pie-box-shadow: 0px 3px 8px #AFAFAF;
+	-moz-box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.31);
+	-webkit-box-shadow: 0px 3px 8px -1px rgba(0, 0, 0, 0.31);
+	box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.31);
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u1507-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #000000;
+	font-size: 16px;
+	line-height: 19px;
+	font-family: karla, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1507-4:hover
+{
+	background-color: #E7EAFF;
+}
+
+#u1507-4:hover p
+{
+	color: #0B0B0B;
+	visibility: inherit;
+}
+
+#u1507-2
+{
+	padding-top: 21px;
+}
+
+#u1519
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	border-radius: 20px;
+	position: relative;
+}
+
+#u1520-4
+{
+	color: #7F7F7F;
+	font-size: 12px;
+	line-height: 14px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+}
+
+#u1523
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #BCBCBC;
+	position: relative;
+}
+
+#u1511
+{
+	background-color: transparent;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-khtml-border-radius: 100px;
+	border-radius: 100px;
+	position: relative;
+}
+
+#u1511:hover
+{
+	background-color: transparent;
+	opacity: 0.55;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=55.00000000000001)";
+	filter: alpha(opacity=55.00000000000001);
+}
+
+#u1516
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF0000;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	position: relative;
+}
+
+#u1517
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF0000;
+	-moz-border-radius: 50px 0px 50px 0px ;
+	-webkit-border-radius: 50px 0px 50px 0px ;
+	-khtml-border-radius: 50px 0px 50px 0px ;
+	border-radius: 50px 0px 50px 0px ;
+	position: relative;
+}
+
+#u1514-4
+{
+	color: #FFFFFF;
+	font-size: 8px;
+	line-height: 10px;
+	position: relative;
+}
+
+#u1529
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #2A2929;
+	position: relative;
+}
+
+#u5194_align_to_page,#u5256,#u1504,#u1506,#u1518,#u1521,#u1509,#u1510,#u1513,#u1515,#u1529_align_to_page,#u5276
+{
+	position: relative;
+}
+
+#u5276_clip
+{
+	overflow: hidden;
+}
+
