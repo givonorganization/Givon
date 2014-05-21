@@ -1,0 +1,196 @@
+<manifest alg="2" build="5" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="master_a-master.css" crc="3810843432" ref="stanford:newsfeed-(news-article-opened):organization-template:organizations:newsfeed-(news):drop..-(personalized-link):drop-in-the-bucket:organizations-(stanford):surfing-for-change:how-it-works-copy:profile:ditb-(example):newsfeed-(newsarticle):fa-sdlkfjasdf:index:home-(bar-open-settings):newsfeed:stanford-(project)-copy:home-(bar-open):stanford-(project):home-bars"/>
+    <file name="stanford.css" crc="3899782280" ref="stanford"/>
+    <file name="iefonts_stanford.css" crc="430411614" ref="stanford"/>
+    <file name="newsfeed-_news-article-opened_.css" crc="240246176" ref="newsfeed-(news-article-opened)"/>
+    <file name="iefonts_newsfeed-_news-article-opened_.css" crc="530441474" ref="newsfeed-(news-article-opened)"/>
+    <file name="organization-template.css" crc="4114842860" ref="organization-template"/>
+    <file name="iefonts_organization-template.css" crc="404164437" ref="organization-template"/>
+    <file name="organizations.css" crc="4217069241" ref="organizations"/>
+    <file name="newsfeed-_news_.css" crc="3934343916" ref="newsfeed-(news)"/>
+    <file name="drop__-_personalized-link_.css" crc="4049393008" ref="drop..-(personalized-link)"/>
+    <file name="iefonts_drop__-_personalized-link_.css" crc="165332283" ref="drop..-(personalized-link)"/>
+    <file name="drop-in-the-bucket.css" crc="470236565" ref="drop-in-the-bucket"/>
+    <file name="iefonts_drop-in-the-bucket.css" crc="270283403" ref="drop-in-the-bucket"/>
+    <file name="organizations-_stanford_.css" crc="4072847019" ref="organizations-(stanford)"/>
+    <file name="iefonts_organizations-_stanford_.css" crc="3806891267" ref="organizations-(stanford)"/>
+    <file name="surfing-for-change.css" crc="3758315703" ref="surfing-for-change"/>
+    <file name="iefonts_surfing-for-change.css" crc="375207539" ref="surfing-for-change"/>
+    <file name="how-it-works-copy.css" crc="352510868" ref="how-it-works-copy"/>
+    <file name="profile.css" crc="4120798418" ref="profile"/>
+    <file name="iefonts_profile.css" crc="310482087" ref="profile"/>
+    <file name="ditb-_example_.css" crc="3843761085" ref="ditb-(example)"/>
+    <file name="iefonts_ditb-_example_.css" crc="331111411" ref="ditb-(example)"/>
+    <file name="newsfeed-_newsarticle_.css" crc="4212969575" ref="newsfeed-(newsarticle)"/>
+    <file name="iefonts_newsfeed-_newsarticle_.css" crc="4053451734" ref="newsfeed-(newsarticle)"/>
+    <file name="fa-sdlkfjasdf.css" crc="3916381934" ref="fa-sdlkfjasdf"/>
+    <file name="iefonts_fa-sdlkfjasdf.css" crc="479960515" ref="fa-sdlkfjasdf"/>
+    <file name="index.css" crc="3764481771" ref="index"/>
+    <file name="home-_bar-open-settings_.css" crc="503323838" ref="home-(bar-open-settings)"/>
+    <file name="newsfeed.css" crc="3898884852" ref="newsfeed"/>
+    <file name="iefonts_newsfeed.css" crc="4167348840" ref="newsfeed"/>
+    <file name="stanford-_project_-copy.css" crc="224271397" ref="stanford-(project)-copy"/>
+    <file name="iefonts_stanford-_project_-copy.css" crc="71942512" ref="stanford-(project)-copy"/>
+    <file name="home-_bar-open_.css" crc="274098084" ref="home-(bar-open)"/>
+    <file name="stanford-_project_.css" crc="3843564307" ref="stanford-(project)"/>
+    <file name="iefonts_stanford-_project_.css" crc="4145033880" ref="stanford-(project)"/>
+    <file name="home-bars.css" crc="148685921" ref="home-bars"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="home-bars:home-(bar-open):home-(bar-open-settings):stanford:stanford-(project):stanford-(project)-copy:newsfeed:organizations:organizations-(stanford):index:how-it-works-copy:drop-in-the-bucket:drop..-(personalized-link):organization-template:ditb-(example):fa-sdlkfjasdf:profile:surfing-for-change:newsfeed-(news):newsfeed-(news-article-opened):newsfeed-(newsarticle)"/>
+    <file name="museutils.js" crc="3880880085" ref="home-bars:home-(bar-open):home-(bar-open-settings):stanford:stanford-(project):stanford-(project)-copy:newsfeed:organizations:organizations-(stanford):index:how-it-works-copy:drop-in-the-bucket:drop..-(personalized-link):organization-template:ditb-(example):fa-sdlkfjasdf:profile:surfing-for-change:newsfeed-(news):newsfeed-(news-article-opened):newsfeed-(newsarticle)"/>
+    <file name="pie.js" crc="4147615982" ref="home-bars:home-(bar-open):home-(bar-open-settings):stanford:stanford-(project):stanford-(project)-copy:newsfeed:organizations:organizations-(stanford):index:drop-in-the-bucket:drop..-(personalized-link):organization-template:ditb-(example):fa-sdlkfjasdf:profile:surfing-for-change:newsfeed-(news):newsfeed-(news-article-opened):newsfeed-(newsarticle)"/>
+    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="home-bars:home-(bar-open):home-(bar-open-settings):stanford:stanford-(project):stanford-(project)-copy:newsfeed:organizations:organizations-(stanford):index:how-it-works-copy:drop-in-the-bucket:drop..-(personalized-link):organization-template:ditb-(example):fa-sdlkfjasdf:profile:surfing-for-change:newsfeed-(news):newsfeed-(news-article-opened):newsfeed-(newsarticle)"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="home-bars:home-(bar-open):home-(bar-open-settings):stanford-(project):stanford-(project)-copy:newsfeed:organizations:index:drop-in-the-bucket:drop..-(personalized-link):ditb-(example):fa-sdlkfjasdf:profile:surfing-for-change:newsfeed-(news):newsfeed-(news-article-opened):newsfeed-(newsarticle)"/>
+    <file name="jquery.scrolleffects.js" crc="56249048" ref="home-bars:home-(bar-open):organization-template"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="home-bars:home-(bar-open):home-(bar-open-settings):stanford:stanford-(project):stanford-(project)-copy:newsfeed:organizations:organizations-(stanford):index:how-it-works-copy:drop-in-the-bucket:drop..-(personalized-link):organization-template:ditb-(example):fa-sdlkfjasdf:profile:surfing-for-change:newsfeed-(news):newsfeed-(news-article-opened):newsfeed-(newsarticle)"/>
+  </folder>
+  <folder name="images">
+    <file name="givon(2)line.png" crc="506229163" ref="home-bars:home-(bar-open):home-(bar-open-settings):stanford:stanford-(project):stanford-(project)-copy:newsfeed:organizations:organizations-(stanford):index:how-it-works-copy:drop-in-the-bucket:drop..-(personalized-link):organization-template:ditb-(example):fa-sdlkfjasdf:profile:surfing-for-change:newsfeed-(news):newsfeed-(news-article-opened):newsfeed-(newsarticle)"/>
+    <file name="searchbutton.png" crc="206401840" ref="home-bars:home-(bar-open):home-(bar-open-settings):stanford:stanford-(project):stanford-(project)-copy:newsfeed:organizations:organizations-(stanford):index:how-it-works-copy:drop-in-the-bucket:drop..-(personalized-link):organization-template:ditb-(example):fa-sdlkfjasdf:profile:surfing-for-change:newsfeed-(news):newsfeed-(news-article-opened):newsfeed-(newsarticle)"/>
+    <file name="screen shot 2014-01-22 at 112411 pm-u1511.jpg" crc="115621911" ref="home-bars:home-(bar-open):home-(bar-open-settings):stanford:stanford-(project):stanford-(project)-copy:newsfeed:organizations:organizations-(stanford):index:how-it-works-copy:drop-in-the-bucket:drop..-(personalized-link):organization-template:ditb-(example):fa-sdlkfjasdf:profile:surfing-for-change:newsfeed-(news):newsfeed-(news-article-opened):newsfeed-(newsarticle)"/>
+    <file name="u1084-grad.png" crc="4279281133" ref="home-bars:home-(bar-open):home-(bar-open-settings):how-it-works-copy"/>
+    <file name="earth-in-hands_18166003.jpg" crc="3804858417" ref="home-bars:home-(bar-open):home-(bar-open-settings):how-it-works-copy"/>
+    <file name="play button.png" crc="261054109" ref="home-bars:home-(bar-open):home-(bar-open-settings):stanford:stanford-(project):stanford-(project)-copy:newsfeed:organizations-(stanford):index:how-it-works-copy:drop-in-the-bucket:drop..-(personalized-link):ditb-(example):fa-sdlkfjasdf:profile:surfing-for-change"/>
+    <file name="shutterstock_74870284.jpg" crc="4225237320" ref="home-bars:home-(bar-open):home-(bar-open-settings)"/>
+    <file name="green-white.png" crc="141150302" ref="home-bars:home-(bar-open):home-(bar-open-settings):stanford:stanford-(project):stanford-(project)-copy:newsfeed:organizations:organizations-(stanford):index:how-it-works-copy:drop-in-the-bucket:drop..-(personalized-link):organization-template:ditb-(example):fa-sdlkfjasdf:profile:surfing-for-change:newsfeed-(news):newsfeed-(news-article-opened):newsfeed-(newsarticle)"/>
+    <file name="pannel arrow.png" crc="424365167" ref="home-(bar-open):home-(bar-open-settings):stanford-(project)"/>
+    <file name="shutterstock_74870284-u1199-r-fr.png" crc="380701474" ref="home-(bar-open)"/>
+    <file name="u1242.png" crc="281458386" ref="home-(bar-open)"/>
+    <file name="u1242-r.png" crc="380948513" ref="home-(bar-open)"/>
+    <file name="wwf(png)-u1210-fr.png" crc="3853692619" ref="home-(bar-open):home-(bar-open-settings)"/>
+    <file name="wwf(png)-u1210-r-fr.png" crc="366855525" ref="home-(bar-open):home-(bar-open-settings)"/>
+    <file name="environment893x673.jpg" crc="419428683" ref="home-(bar-open)"/>
+    <file name="environment-u1207-r-fr.png" crc="527836548" ref="home-(bar-open):home-(bar-open-settings)"/>
+    <file name="stanford_logo-u1200-fr.png" crc="107299332" ref="home-(bar-open):home-(bar-open-settings)"/>
+    <file name="stanford_logo-u1200-r-fr.png" crc="421014660" ref="home-(bar-open):home-(bar-open-settings)"/>
+    <file name="molecular.jpg" crc="4037239324" ref="home-(bar-open):home-(bar-open-settings):organizations"/>
+    <file name="molecular-u1204-r-fr.png" crc="3867362591" ref="home-(bar-open):home-(bar-open-settings)"/>
+    <file name="wikipedia-logo-en-big-u1196-fr.png" crc="4275636084" ref="home-(bar-open):home-(bar-open-settings)"/>
+    <file name="wikipedia-logo-en-big-u1196-r-fr.png" crc="3891811140" ref="home-(bar-open):home-(bar-open-settings)"/>
+    <file name="justice.jpg" crc="272625825" ref="home-(bar-open):home-(bar-open-settings):organizations"/>
+    <file name="justice-u1205-r-fr.png" crc="3763203863" ref="home-(bar-open):home-(bar-open-settings)"/>
+    <file name="npr-u1206-fr.jpg" crc="4217198127" ref="home-(bar-open):home-(bar-open-settings)"/>
+    <file name="npr-u1206-r-fr.png" crc="4174651026" ref="home-(bar-open):home-(bar-open-settings)"/>
+    <file name="education.jpg" crc="3898860058" ref="home-(bar-open):home-(bar-open-settings):organizations"/>
+    <file name="education-u1208-r-fr.png" crc="4048940230" ref="home-(bar-open):home-(bar-open-settings)"/>
+    <file name="harvard-university-logo-300x197-u1198-fr.jpg" crc="3925306758" ref="home-(bar-open):home-(bar-open-settings)"/>
+    <file name="harvard-university-logo-300x197-u1198-r-fr.png" crc="490273992" ref="home-(bar-open):home-(bar-open-settings)"/>
+    <file name="feedthehungry.jpg" crc="3921468789" ref="home-(bar-open):home-(bar-open-settings):organizations"/>
+    <file name="feedthehungry-u1194-r-fr.png" crc="374670753" ref="home-(bar-open):home-(bar-open-settings)"/>
+    <file name="pannel arrow (right).png" crc="3951109408" ref="home-(bar-open):home-(bar-open-settings):stanford-(project):stanford-(project)-copy"/>
+    <file name="mountaingorilla-u1483-fr.jpg" crc="3798107459" ref="home-(bar-open)"/>
+    <file name="embryonic-stem-cells2-u1500-fr.jpg" crc="313537330" ref="home-(bar-open)"/>
+    <file name="sustainable2-u1489-fr.jpg" crc="3854657677" ref="home-(bar-open)"/>
+    <file name="mainpic-u1549-fr.png" crc="61937408" ref="stanford:stanford-(project)"/>
+    <file name="logo.png" crc="3892826658" ref="stanford:stanford-(project):stanford-(project)-copy"/>
+    <file name="pie.png" crc="3858000771" ref="stanford:stanford-(project)"/>
+    <file name="prosthetic-u1833-fr.jpg" crc="3946701928" ref="stanford-(project)"/>
+    <file name="public-speaking-u1867-fr.jpg" crc="4029114420" ref="stanford-(project)"/>
+    <file name="algae-u1881-fr.jpg" crc="3954531227" ref="stanford-(project)"/>
+    <file name="algaebig.jpg" crc="492364566" ref="stanford-(project)-copy"/>
+    <file name="professors.jpg" crc="97077117" ref="stanford-(project)-copy"/>
+    <file name="michael-u2136-fr.jpg" crc="4247297277" ref="stanford-(project)-copy:newsfeed"/>
+    <file name="michael-u2136-r-fr.png" crc="3780250473" ref="stanford-(project)-copy:newsfeed"/>
+    <file name="jeremy-u2142-fr.jpg" crc="4275751544" ref="stanford-(project)-copy:newsfeed"/>
+    <file name="jeremy-u2142-r-fr.png" crc="3783004852" ref="stanford-(project)-copy:newsfeed"/>
+    <file name="kristin-u2151-fr.jpg" crc="3771967325" ref="stanford-(project)-copy:newsfeed"/>
+    <file name="kristin-u2151-r-fr.png" crc="340493542" ref="stanford-(project)-copy:newsfeed"/>
+    <file name="philipo-u2160-fr.jpg" crc="296522687" ref="stanford-(project)-copy:newsfeed"/>
+    <file name="philipo-u2160-r-fr.png" crc="4268949617" ref="stanford-(project)-copy:newsfeed"/>
+    <file name="jack-u2169-fr.jpg" crc="226787527" ref="stanford-(project)-copy:newsfeed"/>
+    <file name="jack-u2169-r-fr.png" crc="4068315690" ref="stanford-(project)-copy:newsfeed"/>
+    <file name="arrow down.png" crc="4187595208" ref="stanford-(project)-copy:organization-template"/>
+    <file name="vote arrow.png" crc="388427610" ref="stanford-(project)-copy:newsfeed"/>
+    <file name="whale2-u2795-fr.jpg" crc="3833024516" ref="newsfeed"/>
+    <file name="wwf(png)-u2806-fr.png" crc="43318651" ref="newsfeed"/>
+    <file name="purple star.png" crc="4053143478" ref="newsfeed:drop-in-the-bucket:drop..-(personalized-link):fa-sdlkfjasdf:surfing-for-change"/>
+    <file name="red star.png" crc="4207730610" ref="newsfeed:drop-in-the-bucket:drop..-(personalized-link):fa-sdlkfjasdf:surfing-for-change"/>
+    <file name="punahou-u2898-fr.jpg" crc="4116510861" ref="newsfeed"/>
+    <file name="screen shot 2014-04-02 at 23045 pm.jpg" crc="4294446194" ref="newsfeed"/>
+    <file name="mountaingorilla-u2818-fr.jpg" crc="309549919" ref="newsfeed"/>
+    <file name="u2583.png" crc="281458386" ref="organizations"/>
+    <file name="u2583-r.png" crc="380948513" ref="organizations"/>
+    <file name="wwf(png)-u2554-fr.png" crc="226945638" ref="organizations"/>
+    <file name="wwf(png)-u2554-r-fr.png" crc="201192959" ref="organizations"/>
+    <file name="stanford_logo-u2555-fr.png" crc="403769492" ref="organizations"/>
+    <file name="stanford_logo-u2555-r-fr.png" crc="4108398327" ref="organizations"/>
+    <file name="wikipedia-logo-en-big-u2556-fr.png" crc="4186709207" ref="organizations"/>
+    <file name="wikipedia-logo-en-big-u2556-r-fr.png" crc="515664631" ref="organizations"/>
+    <file name="npr-u2557-fr.jpg" crc="423148419" ref="organizations"/>
+    <file name="npr-u2557-r-fr.png" crc="28645077" ref="organizations"/>
+    <file name="ethiopia-tap-water_150_600x450.jpg" crc="3942368745" ref="organizations"/>
+    <file name="ethiopia-tap-water_150_600x450-u2558-r-fr.png" crc="3918914679" ref="organizations"/>
+    <file name="environment699x527.jpg" crc="4035419739" ref="organizations"/>
+    <file name="environment-u2566-r-fr.png" crc="4270929150" ref="organizations"/>
+    <file name="molecular-u2561-r-fr.png" crc="4007930546" ref="organizations"/>
+    <file name="justice-u2569-r-fr.png" crc="4203742860" ref="organizations"/>
+    <file name="education-u2572-r-fr.png" crc="112109605" ref="organizations"/>
+    <file name="feedthehungry-u2563-r-fr.png" crc="374670753" ref="organizations"/>
+    <file name="u2617.png" crc="281458386" ref="organizations-(stanford)"/>
+    <file name="u2617-r.png" crc="380948513" ref="organizations-(stanford)"/>
+    <file name="logo2.png" crc="437819979" ref="organizations-(stanford)"/>
+    <file name="mainpic-u2780-fr.png" crc="61937408" ref="organizations-(stanford)"/>
+    <file name="earth_face.jpg" crc="60414212" ref="index"/>
+    <file name="screen shot 2014-04-07 at 74744 pm.jpg" crc="4121957371" ref="index"/>
+    <file name="screen shot 2014-04-07 at 71936 pm-u4222.jpg" crc="522526816" ref="index"/>
+    <file name="screen shot 2014-04-07 at 71941 pm-u4227.jpg" crc="4107759934" ref="index"/>
+    <file name="screen shot 2014-04-07 at 71848 pm.jpg" crc="295538138" ref="index"/>
+    <file name="screen shot 2014-04-07 at 71814 pm.jpg" crc="112640093" ref="index"/>
+    <file name="screen shot 2014-04-07 at 72656 pm.jpg" crc="4121759078" ref="index"/>
+    <file name="connect2.png" crc="411159498" ref="index"/>
+    <file name="screen shot 2014-04-04 at 83216 pm-u3145-fr.png" crc="535677758" ref="drop-in-the-bucket:drop..-(personalized-link):ditb-(example)"/>
+    <file name="logo3.png" crc="3970903056" ref="drop-in-the-bucket:drop..-(personalized-link):ditb-(example):profile"/>
+    <file name="africa_water_girl-ashz-090602-u3359-fr.png" crc="310430333" ref="drop-in-the-bucket:drop..-(personalized-link):fa-sdlkfjasdf"/>
+    <file name="soap4ssudan-drop-site-u3237-fr.jpg" crc="3973282636" ref="drop-in-the-bucket:drop..-(personalized-link):fa-sdlkfjasdf"/>
+    <file name="u3541-sprite.png" crc="491433077" ref="drop..-(personalized-link):organization-template:fa-sdlkfjasdf"/>
+    <file name="screen shot 2014-04-06 at 93010 pm.jpg" crc="455537800" ref="organization-template"/>
+    <file name="u4723-sprite.png" crc="4097827385" ref="fa-sdlkfjasdf"/>
+    <file name="googleplus.png" crc="4224914744" ref="fa-sdlkfjasdf"/>
+    <file name="instagram.png" crc="221748927" ref="fa-sdlkfjasdf"/>
+    <file name="twitter.png" crc="68462989" ref="fa-sdlkfjasdf"/>
+    <file name="communication-gmail-icon.png" crc="3993522839" ref="fa-sdlkfjasdf"/>
+    <file name="facebook.png" crc="509572247" ref="fa-sdlkfjasdf"/>
+    <file name="arrow.png" crc="175191623" ref="fa-sdlkfjasdf"/>
+    <file name="rodrigo_pinto_crop-280x280-u5334-fr.jpg" crc="81612330" ref="profile"/>
+    <file name="screen shot 2014-04-29 at 72411 pm.jpg" crc="457102260" ref="profile"/>
+    <file name="screen shot 2014-04-29 at 72411 pm-u5447-fr.jpg" crc="3771496713" ref="profile"/>
+    <file name="whale2-u5449-fr.jpg" crc="3990281439" ref="profile"/>
+    <file name="wwf(png)-u5461-fr.png" crc="164954712" ref="profile"/>
+    <file name="punahou-u5467-fr.jpg" crc="434062980" ref="profile"/>
+    <file name="screen shot 2014-04-04 at 83216 pm-u5479-fr.png" crc="4238394249" ref="profile"/>
+    <file name="coverwave-u5583-fr.png" crc="162091049" ref="surfing-for-change"/>
+    <file name="web-logo.png" crc="369927783" ref="surfing-for-change"/>
+    <file name="screen shot 2014-05-05 at 12204 pm-u5566-fr.jpg" crc="4163073747" ref="surfing-for-change"/>
+    <file name="mountaingorilla-u5841-fr.jpg" crc="4226665853" ref="newsfeed-(news):newsfeed-(news-article-opened):newsfeed-(newsarticle)"/>
+    <file name="embryonic-stem-cells2-u5862-fr.jpg" crc="4161686380" ref="newsfeed-(news):newsfeed-(news-article-opened):newsfeed-(newsarticle)"/>
+    <file name="sustainable2-u5851-fr.jpg" crc="141963095" ref="newsfeed-(news):newsfeed-(news-article-opened):newsfeed-(newsarticle)"/>
+    <file name="smes_foam_collection-19-630x480-u5889-fr.jpg" crc="324542637" ref="newsfeed-(news):newsfeed-(news-article-opened):newsfeed-(newsarticle)"/>
+    <file name="post_full_1274463406teach-4-america-u5894-fr.jpg" crc="373915954" ref="newsfeed-(news):newsfeed-(news-article-opened):newsfeed-(newsarticle)"/>
+    <file name="news-140508-1-shark-large-u5902-fr.jpg" crc="64339017" ref="newsfeed-(news):newsfeed-(news-article-opened):newsfeed-(newsarticle)"/>
+    <file name="seasheperdarticle.png" crc="414821084" ref="newsfeed-(news-article-opened)"/>
+  </folder>
+  <file name="home-bars.html" crc="3834277874" mt="1400556876279" redirect="true"/>
+  <file name="home-(bar-open).html" crc="452533368" mt="1400560704803" redirect="true"/>
+  <file name="home-(bar-open-settings).html" crc="121421866" mt="1400556876329" redirect="true"/>
+  <file name="stanford.html" crc="4017391045" mt="1400556876349" redirect="true"/>
+  <file name="stanford-(project).html" crc="4061802615" mt="1400556876379" redirect="true"/>
+  <file name="stanford-(project)-copy.html" crc="409862481" mt="1400556876408" redirect="true"/>
+  <file name="newsfeed.html" crc="4076273138" mt="1400556876435" redirect="true"/>
+  <file name="organizations.html" crc="56530328" mt="1400560718751" redirect="true"/>
+  <file name="organizations-(stanford).html" crc="3853191353" mt="1400560719866" redirect="true"/>
+  <file name="index.html" crc="3988123322" mt="1400556876469" redirect="true"/>
+  <file name="how-it-works-copy.html" crc="42695293" mt="1400556876473" redirect="true"/>
+  <file name="drop-in-the-bucket.html" crc="4053375951" mt="1400556876512" redirect="true"/>
+  <file name="drop..-(personalized-link).html" crc="4230943293" mt="1400556876554" redirect="true"/>
+  <file name="organization-template.html" crc="186245323" mt="1400556876576" redirect="true"/>
+  <file name="ditb-(example).html" crc="468691725" mt="1400556876593" redirect="true"/>
+  <file name="fa-sdlkfjasdf.html" crc="171539844" mt="1400556876635" redirect="true"/>
+  <file name="profile.html" crc="3793819625" mt="1400556876661" redirect="true"/>
+  <file name="surfing-for-change.html" crc="104603413" mt="1400556876694" redirect="true"/>
+  <file name="newsfeed-(news).html" crc="367467703" mt="1400557516744" redirect="true"/>
+  <file name="newsfeed-(news-article-opened).html" crc="323517332" mt="1400128381322" redirect="true"/>
+  <file name="newsfeed-(newsarticle).html" crc="4095598219" mt="1400560658452" redirect="true"/>
+</manifest>
